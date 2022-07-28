@@ -6,7 +6,7 @@
 ![This is an image](./project.jpg)
 
 ### As a result of this project, I learn the following:
-[LIVE-LINK](https://streetstylelanding.netlify.app/)
+[LIVE-LINK](https://food-resturant-home.netlify.app/)
 
 - [x] positioning property in the HTML and CSS
 - [x] How to insert Background properly
