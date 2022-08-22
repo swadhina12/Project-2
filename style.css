@@ -14,9 +14,8 @@ body {
  background-blend-mode: soft-light;
 }
 
-/* ------------------------------ */
-/* ---------- NAVBAR ------------ */
-/* ------------------------------ */
+/*navbar section */
+
 .navbar{
   display: flex;
   justify-content: space-between;
@@ -50,9 +49,8 @@ body {
   cursor: pointer;
 }
 
-/* ------------------------------ */
-/* ---------- HERO ------------ */
-/* ------------------------------ */
+/* hero section */
+
 .hero-heading{
   font-size: calc(40px + (120 - 40) * ((100vw - 300px) / (1600 - 300)));
   font-weight: bold;
